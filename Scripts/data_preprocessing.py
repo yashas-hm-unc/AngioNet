@@ -7,9 +7,11 @@ from skimage import io, color, util
 try:
     # When imported from run_pipeline.py (from project root)
     from Scripts.core.utils import print_progress
+    from Scripts.core.constants import PATCH_SIZE, STRIDE
 except ImportError:
     # When running directly from Scripts directory
     from core.utils import print_progress
+    from core.constants import PATCH_SIZE, STRIDE
 
 
 def create_patches(image, mask, patch_size, stride, output_path_image, output_path_mask, name):
