@@ -281,7 +281,7 @@ def create_patches(image, mask, patch_size, stride, output_path_image, output_pa
 To enable reproduction without GPU or long training times, we provide pre-computed outputs as a single downloadable zip
 file:
 
-**Download URL**: `https://placeholder-link.com/precomputed_outputs.zip`
+**Download URL**: [https://github.com/yashas-hm-unc/AngioNet/releases/download/v1.0.0/precomputed_outputs.zip](https://github.com/yashas-hm-unc/AngioNet/releases/download/v1.0.0/precomputed_outputs.zip)
 
 ### 6.1 Trained Model
 

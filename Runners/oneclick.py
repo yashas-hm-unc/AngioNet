@@ -14,7 +14,7 @@ import urllib.request
 import zipfile
 
 # Configuration
-DOWNLOAD_URL = "https://github.com/yashas-hm-unc/blood-vessel-segviz/releases/download/v1.0.1/precomputed_outputs.zip"
+DOWNLOAD_URL = "https://github.com/yashas-hm-unc/AngioNet/releases/download/v1.0.0/precomputed_outputs.zip"
 ARCHIVE_NAME = "precomputed_outputs.zip"
 EDA_NOTEBOOK = "eda_angio_net.ipynb"
 
