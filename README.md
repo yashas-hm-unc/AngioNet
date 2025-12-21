@@ -1,6 +1,9 @@
 # AngioNet
 A deep learning pipeline for mouse retinal vessel segmentation using U-Net architecture.
 
+<img width="967" height="989" alt="Node Tree" src="https://github.com/user-attachments/assets/5f4fcf1e-a42c-44da-8b1d-4001788ac60c" />
+
+
 ## Requirements
 
 - **Python**: 3.10+ (developed with Python 3.14)
